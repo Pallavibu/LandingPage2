@@ -72,7 +72,7 @@ const Body = () => {
                       <img src={star} alt="star" className="my-4 h-6" />
                     </div>
                   </div>
-                  <div>
+                  <div className="pr-4">
                     <p className="text-gray-600">Reviewd</p>
                     <p className="text-lg font-medium">Today</p>
                   </div>
@@ -107,7 +107,7 @@ const Body = () => {
                       <img src={star} alt="star" className="my-4 h-6" />
                     </div>
                   </div>
-                  <div>
+                  <div className="pr-4">
                     <p className="text-gray-600">Reviewd</p>
                     <p className="text-lg font-medium">Today</p>
                   </div>
